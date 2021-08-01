@@ -1,0 +1,54 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.container-fluid{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(182, 211, 102);
+    padding-top: 15px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
+nav a:hover{
+    color:black;
+}
+.quemsomos{
+    background-color: whitesmoke;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.texto{
+    font-size: 25px;
+}
+.image1{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.Parceiros{
+    background-color: rgb(182, 211, 102);
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.Serviços{
+    background-color: whitesmoke;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.desenvolvedor{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(182, 211, 102);
+}
